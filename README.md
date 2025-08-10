@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yagyansh Gupta</h1>
-<h3 align="center">Hi there! I'm a tech enthusiast and developer with a love for app development, cloud computing and problem-solving. Currently pursuing my B.Tech in Computer Science at IIIT Sri City 🎓, I'm always exploring new technologies and building impactful solutions that make a difference. Let's innovate together! 💡✨</h3>
+<h3 align="center">Hi there! I'm a tech enthusiast and developer with a love for app development,web development cloud computing and problem-solving. Currently pursuing my B.Tech in Computer Science at IIIT Sri City 🎓, I'm always exploring new technologies and building impactful solutions that make a difference. Let's innovate together! 💡✨</h3>
 
 # 💫 About Me:
-🌟 What I Do<br>💻 Android & Full-Stack Development – Kotlin, Jetpack Compose, Node.js, MongoDB<br>🤖 AI & ML Exploration – Implementing AI-driven solutions<br> 💻Full Stack developement – Node.js, MongoDB, HTML, CSS<br>📱 Cloud Computing - GCP, Docker , Kubernetes<br><br>🔥 Fun Facts<br>I love hackathons and turning ideas into real-world solutions.<br><br>I’m currently working on an AI-powered neurodiversity platform for the Google Solutions Challenge.
-
+🌟 What I Do<br>💻 Android & Full-Stack Development – Kotlin, Jetpack Compose, Node.js, MongoDB<br>🤖 AI & ML Exploration – Implementing AI-driven solutions<br> 💻Full Stack developement – Node.js, MongoDB, HTML, CSS<br>📱 Cloud Computing - GCP, Docker , Kubernetes<br><br>🔥 Fun Facts<br>I love hackathons and turning ideas into real-world solutions.<br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yagyanshgupta/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yagyansh-gupta-532519297/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Yagyansh02) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yagyanshgupta0212@gmail.com) 
 
