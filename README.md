@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🚀 About Me<br><br>🔭 I'm currently working on **AI-powered and full-stack applications**<br>🤝 I'm looking to collaborate on **open-source, backend, and AI projects**<br>🧠 I'm currently learning **System Design, Distributed Systems, and RAG Architectures**<br>💬 Ask me about **Backend Development, Node.js, FASTAPI, MongoDB, PostgreSQL, and DSA**<br>🌱 Currently exploring **LLMs, LangChain, Vector Databases, and AI Agents**<br>⚡ Fun fact: I enjoy solving and organising CTFs
+🔭 I'm currently working on **AI-powered and full-stack applications**<br>🤝 I'm looking to collaborate on **open-source, backend, and AI projects**<br>🧠 I'm currently learning **System Design, Distributed Systems, and RAG Architectures**<br>💬 Ask me about **Backend Development, Node.js, FASTAPI, MongoDB, PostgreSQL, and DSA**<br>🌱 Currently exploring **LLMs, LangChain, Vector Databases, and AI Agents**<br>⚡ Fun fact: I enjoy solving and organising CTFs
 
 
 ## 🌐 Socials:
